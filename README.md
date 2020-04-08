@@ -8,7 +8,7 @@
 - git clone https://github.com/Anonymous3-SIT/AllHackSatelite
 - cd AllhackSatelite
 - ls
-- sh Hack.sh
+- sh AllSatelite.sh
 
 
 #INFO
